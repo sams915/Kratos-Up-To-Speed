@@ -4,7 +4,7 @@ Tutorials on modern software concepts
 
 ## Curriculum
 
-Topic | Focus | Prerequisites | Sub-Topics | Approach
+Focus | Topic | Prerequisites | Sub-Topics | Approach
 :-- | :--: | :--: | :--: | :--:
 Coding Fundamentals | Programming Language Basics | None | Datatypes, Datastructures, Language Idioms | Theory
 Test Driven Development | Types Of Testing | None | Testing Pyramid and Anti Patterns, Code Confidence | Hybrid
