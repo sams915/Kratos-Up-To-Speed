@@ -18,4 +18,4 @@ Our Role | Structuring Code | None | Domain Driven Development, Interaction Driv
 Our Role | Project Planning | None | Waterfall, Agile, XP | Hybrid
 Language Understanding | C# Language Idioms | None | Linq | Practical
 Language Understanding | C# Defaults | None | Type Defaults Of C# | Practical
-Language Understanding | Stack and Heap Memory | Types Of Memory Used By Languages | Theory
+Language Understanding | Stack and Heap Memory | None | Types Of Memory Used By Languages | Theory
